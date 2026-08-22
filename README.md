@@ -151,6 +151,32 @@ GPU 利用率      ███████████████████░ 
 
 ---
 
+### 🐍 贪吃蛇吃掉我的提交格子
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ningwang849657/ningwang849657/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ningwang849657/ningwang849657/output/snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/ningwang849657/ningwang849657/output/snake.svg" />
+</picture>
+
+<sub>每天自动重新生成 · 格子越多蛇爬得越久</sub>
+
+</div>
+
+---
+
+### 📉 贡献曲线
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ningwang849657&theme=github-compact&hide_border=true&area=true&color=6da8ff&line=6da8ff&point=e8935e" alt="activity" />
+
+</div>
+
+---
+
 ### 🌌 今日一句
 
 <div align="center">
